@@ -1,0 +1,14 @@
+Virtual Environment
+
+.venv/
+venv/
+env/
+
+Python Files
+
+pycache/
+*.pyc
+
+Operating System Files
+
+.DS_Store
